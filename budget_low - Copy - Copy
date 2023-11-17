@@ -1,0 +1,11 @@
+Name_of_Car,Original_Price,Offer_Price,Type_of_Fuel,Ride,Year,KM(ran),car_type,EMI(per/month),downpayment,city,Price_level
+Datsun,181000,175000,Petrol,Manual,2016,28130,1st,4989,35000,Kolkata,Low
+Maruti,201000,174000,Petrol,Manual,2013,47619,1st,3269,34800,Kolkata,Low
+Maruti,252000,229000,Petrol,Manual,2012,41353,1st,4989,45800,Lucknow,Low
+Renault,231000,231000,Petrol,Manual,2018,13597,1st,3613,46200,Agra,Low
+Hyundai,181000,181000,Petrol,Manual,2011,40596,1st,2831,36200,Agra,Low
+Maruti,276000,236000,Petrol,Manual,2015,46785,2nd,2737,47200,Chandigarh,Low
+Maruti,161000,156000,Petrol,Manual,2011,29904,2nd,2690,31200,Nagpur,Low
+Honda,280000,240000,Petrol,Manual,2013,35781,2nd,3832,48000,Nasik,Low
+Maruti,197000,191000,Petrol,Manual,2013,49159,1st,4223,38200,Patna,Low
+Renault,246000,238000,Petrol,Manual,2016,19712,1st,3722,47600,Surat,Low
