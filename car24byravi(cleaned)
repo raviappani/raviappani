@@ -1,0 +1,590 @@
+,Name_of_Car,Original_Price,Offer_Price,Type_of_Fuel,Ride,Year,KM(ran),car_type,downpayment,Place
+0,Hyundai,961000,879000,Petrol,Manual,2019,28943,1st ,175800, Ahmedabad
+1,Hyundai,933000,896000,Petrol,Automatic,2016,52287,1st ,179200, Ahmedabad
+2,Toyota,418000,388000,Diesel,Manual,2015,99046,2nd ,77600, Ahmedabad
+3,Honda,766000,697000,Petrol,Manual,2017,104509,1st ,139400, Ahmedabad
+4,Hyundai,590000,579000,Diesel,Manual,2016,52228,2nd ,115800, Ahmedabad
+5,Volkswagen,616000,574000,Petrol,Automatic,2017,114298,2nd ,114800, Ahmedabad
+6,Hyundai,287000,287000,Diesel,Manual,2013,105286,2nd ,57400, Ahmedabad
+7,Hyundai,218000,218000,Petrol,Manual,2014,62947,3rd ,43600, Ahmedabad
+8,Maruti,538000,524000,Diesel,Manual,2016,111739,1st ,104800, Ahmedabad
+9,Hyundai,460000,439000,Petrol,Manual,2014,58084,1st ,87800, Ahmedabad
+10,Maruti,156000,156000,Petrol,Manual,2011,63904,2nd ,31200, Ahmedabad
+11,Hyundai,463000,443000,Petrol,Manual,2015,50679,2nd ,88600, Ahmedabad
+12,Toyota,459000,424000,CNG,Manual,2015,71828,1st ,84800, Ahmedabad
+13,Volkswagen,225000,215000,Petrol,Manual,2011,108574,3rd ,43000, Ahmedabad
+14,Hyundai,527000,490000,Petrol,Manual,2018,69928,1st ,98000, Ahmedabad
+15,Maruti,378000,378000,CNG,Manual,2014,84563,1st ,75600, Ahmedabad
+16,KIA,1312000,1172000,Petrol,Manual,2022,27272,1st ,234400, Ahmedabad
+17,Hyundai,588000,487000,Petrol,Manual,2016,66630,2nd ,97400, Ahmedabad
+18,Datsun,198000,193000,Petrol,Manual,2016,50614,2nd ,38600, Ahmedabad
+19,Tata,371000,320000,Petrol,Manual,2016,110096,1st ,64000, Ahmedabad
+20,Tata,673000,673000,Diesel,Manual,2018,149410,1st ,134600, Bengaluru
+21,Hyundai,929000,864000,Petrol,Manual,2016,81853,2nd ,172800, Bengaluru
+22,Hyundai,676000,676000,Petrol,Manual,2020,22126,2nd ,135200, Benga...
+23,Maruti,546000,504000,Petrol,Manual,2017,84684,1st ,100800, Bengaluru
+24,Renault,365000,365000,Petrol,Manual,2017,53588,2nd ,73000, Bengaluru
+25,Tata,1218000,1218000,Petrol,Automatic,2021,11451,1st ,243600, Bengaluru
+26,Toyota,440000,440000,Diesel,Manual,2012,79414,1st ,88000, Benga...
+27,Toyota,439000,439000,Diesel,Manual,2012,72701,2nd ,87800, Bengaluru
+28,Tata,1054000,1054000,Diesel,Automatic,2018,23343,1st ,210800, Bengaluru
+29,Hyundai,396000,373000,Diesel,Manual,2011,83963,2nd ,74600, Benga...
+30,Renault,296000,296000,Petrol,Manual,2016,52479,2nd ,59200, Benga...
+31,Maruti,662000,662000,Petrol,Manual,2015,53491,1st ,132400,"Sonnappanahalli
+"
+32,Maruti,483000,483000,Petrol,Manual,2014,86855,2nd ,96600, Bengaluru
+33,Hyundai,283000,283000,Petrol,Manual,2011,125642,2nd ,56600, Bengaluru
+34,Maruti,401000,401000,Petrol,Manual,2013,70400,2nd ,80200, Benga...
+35,Hyundai,1040000,1040000,Petrol,Manual,2020,35627,2nd ,208000, Bengaluru
+36,Maruti,225000,225000,Petrol,Manual,2010,38152,2nd ,45000, Bengaluru
+37,KIA,1734000,1734000,Diesel,Automatic,2022,19388,1st ,346800, Bengaluru
+38,Maruti,549000,479000,Diesel,Manual,2012,100171,1st ,95800, Bengaluru
+39,Hyundai,316000,316000,Petrol,Manual,2011,27813,1st ,63200, Bengaluru
+40,Skoda,869000,861000,Petrol,Manual,2019,40501,1st ,172200," Chennai
+"
+41,Toyota,319000,296000,Petrol,Manual,2012,121795,2nd ,59200," Chennai
+"
+42,Maruti,239000,231000,Petrol,Manual,2013,93465,1st ,46200," Chennai
+"
+43,Maruti,343000,330000,Petrol,Manual,2016,65195,1st ,66000," Chennai
+"
+44,Maruti,595000,568000,Petrol,Manual,2018,103607,1st ,113600," Chennai
+"
+45,Maruti,646000,598000,Petrol,Automatic,2019,93041,1st ,119600," Chennai
+"
+46,Nissan,387000,373000,Petrol,Manual,2017,111055,2nd ,74600," Chennai
+"
+47,Honda,341000,341000,Petrol,Manual,2012,61688,2nd ,68200,Navalur
+48,Mahindra,925000,925000,Diesel,Manual,2016,69697,2nd ,185000," Chennai
+"
+49,Hyundai,774000,718000,Petrol,Manual,2019,26493,1st ,143600," Chennai
+"
+50,Hyundai,617000,606000,Petrol,Automatic,2021,29870,1st ,121200," Chennai
+"
+51,Tata,536000,524000,Petrol,Automatic,2018,41269,1st ,104800," Chennai
+"
+52,Mahindra,616000,581000,Diesel,Manual,2017,94376,1st ,116200," Chennai
+"
+53,Hyundai,720000,692000,Petrol,Manual,2017,43753,1st ,138400," Chennai
+"
+54,Renault,348000,314000,Petrol,Manual,2016,72742,2nd ,62800," Chennai
+"
+55,Tata,427000,427000,Petrol,Manual,2016,49475,2nd ,85400," Chennai
+"
+56,Datsun,219000,219000,Petrol,Manual,2014,90047,2nd ,43800," Chennai
+"
+57,Honda,659000,659000,Petrol,Automatic,2017,29757,1st ,131800," Chennai
+"
+58,Tata,756000,701000,Petrol,Manual,2020,20328,1st ,140200," Chennai
+"
+59,Ford,639000,584000,Petrol,Manual,2017,70996,1st ,116800," Chennai
+"
+60,Hyundai,520000,520000,Petrol,Manual,2018,90619,1st ,104000, Ghaziabad
+61,Jeep,1373000,1373000,Diesel,Manual,2019,45108,1st ,274600, Ghaziabad
+62,Maruti,573000,573000,CNG,Manual,2022,41453,1st ,114600, Faridabad
+63,Maruti,270000,270000,Petrol,Manual,2012,53116,1st ,54000, Noida
+64,Maruti,478000,415000,Petrol,Automatic,2018,32685,1st ,83000, Faridabad
+65,Hyundai,702000,668000,CNG,Manual,2020,67853,2nd ,133600, Noida
+66,Maruti,817000,817000,Diesel,Manual,2019,55523,1st ,163400, Gurugram
+67,Maruti,417000,376000,Diesel,Manual,2015,117499,1st ,75200, Gurugram
+68,Maruti,819000,790000,Diesel,Manual,2019,50767,1st ,158000, Gurugram
+69,Maruti,533000,471000,Petrol,Manual,2019,97494,1st ,94200, Gurugram
+70,Honda,669000,636000,CNG,Manual,2019,43184,1st ,127200," Delhi
+"
+71,Maruti,500000,470000,CNG,Manual,2019,48404,1st ,94000, New Delhi
+72,Toyota,879000,777000,Petrol,Automatic,2019,37778,1st ,155400, Faridabad
+73,Maruti,280000,249000,Petrol,Manual,2014,79204,2nd ,49800, Gurugram
+74,Maruti,353000,300000,Petrol,Manual,2017,41428,3rd ,60000, Gurugram
+75,Maruti,186000,181000,Petrol,Manual,2010,61569,2nd ,36200," Delhi
+"
+76,Honda,657000,634000,Petrol,Manual,2019,37783,1st ,126800, Gurugram
+77,Ford,661000,629000,Diesel,Manual,2018,79371,1st ,125800, New Delhi
+78,Maruti,541000,526000,Petrol,Manual,2020,44817,2nd ,105200, New Delhi
+79,Renault,832000,679000,Petrol,Manual,2021,45459,1st ,135800, New Delhi
+80,Hyundai,520000,520000,Petrol,Manual,2018,90619,1st ,104000, Ghaziabad
+81,Maruti,573000,573000,CNG,Manual,2022,41453,1st ,114600, Faridabad
+82,Jeep,1373000,1373000,Diesel,Manual,2019,45108,1st ,274600, Ghaziabad
+83,Maruti,270000,270000,Petrol,Manual,2012,53116,1st ,54000, Noida
+84,Maruti,478000,415000,Petrol,Automatic,2018,32685,1st ,83000, Faridabad
+85,Hyundai,702000,668000,CNG,Manual,2020,67853,2nd ,133600, Noida
+86,Maruti,817000,817000,Diesel,Manual,2019,55523,1st ,163400, Gurugram
+87,Maruti,417000,376000,Diesel,Manual,2015,117499,1st ,75200, Gurugram
+88,Maruti,819000,790000,Diesel,Manual,2019,50767,1st ,158000, Gurugram
+89,Maruti,533000,471000,Petrol,Manual,2019,97494,1st ,94200, Gurugram
+90,Honda,669000,636000,CNG,Manual,2019,43184,1st ,127200," Delhi
+"
+91,Maruti,500000,470000,CNG,Manual,2019,48404,1st ,94000, New Delhi
+92,Toyota,879000,777000,Petrol,Automatic,2019,37778,1st ,155400, Faridabad
+93,Maruti,280000,249000,Petrol,Manual,2014,79204,2nd ,49800, Gurugram
+94,Maruti,353000,300000,Petrol,Manual,2017,41428,3rd ,60000, Gurugram
+95,Maruti,186000,181000,Petrol,Manual,2010,61569,2nd ,36200," Delhi
+"
+96,Honda,657000,634000,Petrol,Manual,2019,37783,1st ,126800, Gurugram
+97,Ford,661000,629000,Diesel,Manual,2018,79371,1st ,125800, New Delhi
+98,Maruti,541000,526000,Petrol,Manual,2020,44817,2nd ,105200, New Delhi
+99,Renault,832000,679000,Petrol,Manual,2021,45459,1st ,135800, New Delhi
+100,Hyundai,416000,372000,Petrol,Manual,2013,74880,2nd ,74400, Hyderabad
+101,KIA,823000,817000,Petrol,Manual,2020,76615,1st ,163400, Hyderabad
+102,Tata,814000,770000,Petrol,Manual,2022,33885,1st ,154000, Hyderabad
+103,Maruti,568000,568000,Diesel,Manual,2013,113110,2nd ,113600, Hyderabad
+104,Nissan,540000,529000,Petrol,Automatic,2018,103700,2nd ,105800, Hyderabad
+105,Ford,709000,656000,Petrol,Automatic,2016,62773,1st ,131200, Hyderabad
+106,Hyundai,433000,422000,Petrol,Manual,2014,42242,2nd ,84400, Hyderabad
+107,Skoda,645000,615000,Petrol,Manual,2016,39153,1st ,123000, Hyderabad
+108,Tata,409000,409000,Petrol,Manual,2016,58761,1st ,81800, Hyderabad
+109,Renault,307000,283000,Petrol,Manual,2016,42203,2nd ,56600, Hyderabad
+110,KIA,1800000,1800000,Diesel,Manual,2022,25987,1st ,360000," Hyderabad.
+"
+111,Hyundai,211000,178600,Petrol,Manual,2010,90566,2nd ,35720, Hyderabad
+112,Maruti,267000,228000,Petrol,Manual,2016,60610,2nd ,45600, Hyderabad
+113,Mahindra,841000,794000,Diesel,Manual,2018,110140,1st ,158800, Hyderabad
+114,Maruti,786000,756000,Diesel,Manual,2017,71821,1st ,151200, Hyderabad
+115,Hyundai,566000,528000,Petrol,Manual,2014,93873,1st ,105600, Hyderabad
+116,Mahindra,552000,527000,Diesel,Manual,2013,50132,2nd ,105400, Hyderabad
+117,Renault,399000,399000,Petrol,Manual,2020,29474,1st ,79800, Hyderabad
+118,Maruti,679000,645000,Diesel,Manual,2017,98130,1st ,129000, Hyderabad
+119,Maruti,612000,529000,Petrol,Manual,2021,118937,1st ,105800, Hyderabad
+120,Maruti,162000,149000,Petrol,Manual,2010,59489,2nd ,29800, Navi Mumbai
+121,Hyundai,453000,437000,Petrol,Manual,2013,55658,1st ,87400, Mumbai
+122,Toyota,939000,891000,Diesel,Manual,2014,82310,2nd ,178200,"Mulund
+"
+123,Honda,289000,289000,CNG,Manual,2011,116410,2nd ,57800, Navi Mumbai
+124,Hyundai,409000,394000,Diesel,Automatic,2013,87172,3rd ,78800, Mumbai
+125,Mahindra,561000,551000,Diesel,Manual,2014,87495,3rd ,110200, Navi Mumbai
+126,Maruti,241000,223000,Petrol,Automatic,2012,40614,1st ,44600,"Mulund
+"
+127,Honda,312000,287000,Petrol,Manual,2011,97888,1st ,57400,"Mulund
+"
+128,Maruti,660000,590000,Petrol,Manual,2021,44220,1st ,118000,"Mulund
+"
+129,Toyota,683000,619000,Diesel,Manual,2013,67882,4th ,123800,"Mulund
+"
+130,Renault,240000,240000,Petrol,Manual,2018,54281,1st ,48000, Mumbai
+131,Volkswagen,565000,491000,Petrol,Automatic,2015,95952,1st ,98200,"Mulund
+"
+132,Hyundai,896000,850000,Petrol,Automatic,2018,36454,1st ,170000,"Mulund
+"
+133,Honda,287000,268000,Petrol,Manual,2013,80332,3rd ,53600, Mumbai
+134,Mahindra,1569000,1521000,Diesel,Manual,2022,9814,1st ,304200,"Mulund
+"
+135,Maruti,523000,499000,Petrol,Manual,2013,49082,2nd ,99800,"Mulund
+"
+136,Jeep,1178000,1087000,Diesel,Manual,2018,44754,1st ,217400, Navi Mumbai
+137,Maruti,468000,407000,CNG,Manual,2017,78112,1st ,81400, Mumbai
+138,KIA,1166000,1082000,Petrol,Automatic,2019,27245,2nd ,216400,"Mulund
+"
+139,Maruti,220000,206000,Petrol,Manual,2010,85547,2nd ,41200,"Mulund
+"
+140,Maruti,280000,227000,Petrol,Manual,2016,41370,3rd ,45400, Lasudia Mori
+141,Maruti,557000,508000,CNG,Automatic,2018,95787,1st ,101600, Lasudia Mori
+142,Tata,660000,580400,Diesel,Manual,2019,110321,1st ,116080, Lasudia Mori
+143,Maruti,348000,297000,Petrol,Manual,2012,70713,1st ,59400, Lasudia Mori
+144,Hyundai,243000,204000,Petrol,Manual,2010,70706,2nd ,40800, Lasudia Mori
+145,Maruti,603000,509000,Petrol,Manual,2018,47004,1st ,101800, Lasudia Mori
+146,Hyundai,377000,377000,Petrol,Manual,2015,57738,1st ,75400, Lasudia Mori
+147,Hyundai,471000,425000,Diesel,Manual,2015,2,2nd ,85000, Lasudia Mori
+148,Hyundai,324000,248000,Petrol,Manual,2016,53055,1st ,49600, Lasudia Mori
+149,Honda,469000,410000,Petrol,Manual,2014,101754,1st ,82000, Lasudia Mori
+150,Hyundai,1026000,989000,Diesel,Manual,2021,52318,1st ,197800, Lasudia Mori
+151,Maruti,636000,567000,Petrol,Manual,2017,49644,1st ,113400, Lasudia Mori
+152,Toyota,293000,231000,Petrol,Manual,2012,86850,2nd ,46200, Lasudia Mori
+153,Maruti,243000,224000,Petrol,Manual,2014,93482,1st ,44800, Lasudia Mori
+154,Maruti,484000,439000,Petrol,Automatic,2019,10289,2nd ,87800, Lasudia Mori
+155,Volkswagen,505000,432000,Petrol,Manual,2017,58137,1st ,86400, Lasudia Mori
+156,Hyundai,927000,870000,Petrol,Manual,2022,10506,1st ,174000, Lasudia Mori
+157,Hyundai,248000,205000,Petrol,Manual,2013,59109,2nd ,41000, Lasudia Mori
+158,Skoda,876000,759000,Petrol,Automatic,2018,70893,1st ,151800, Lasudia Mori
+159,Hyundai,577000,516000,Petrol,Manual,2018,68944,1st ,103200, Lasudia Mori
+160,Honda,737000,659000,Petrol,Manual,2019,17927,1st ,131800,Mansarovar
+161,Maruti,599000,551000,Petrol,Manual,2018,98576,1st ,110200,Mansarovar
+162,Hyundai,842000,751000,Petrol,Automatic,2018,20195,1st ,150200,Mansarovar
+163,Renault,334800,334800,Diesel,Manual,2012,121243,2nd ,66960,Mansarovar
+164,Maruti,602000,536000,Petrol,Manual,2018,41472,2nd ,107200,Mansarovar
+165,Honda,409000,364000,Petrol,Manual,2015,105269,1st ,72800,Mansarovar
+166,Maruti,779000,779000,Petrol,Manual,2021,55657,1st ,155800,Mansarovar
+167,Tata,401000,401000,Petrol,Automatic,2017,67719,1st ,80200,Mansarovar
+168,Maruti,250000,250000,Petrol,Manual,2016,67039,1st ,50000,Mansarovar
+169,Maruti,259000,243000,Diesel,Manual,2010,104842,2nd ,48600,Mansarovar
+170,Maruti,475000,419000,Diesel,Manual,2015,81040,2nd ,83800,Mansarovar
+171,Mahindra,657000,603000,Diesel,Manual,2014,99432,1st ,120600,Mansarovar
+172,Maruti,804000,713000,Diesel,Manual,2019,49616,1st ,142600,Mansarovar
+173,Maruti,350000,315000,Petrol,Automatic,2016,75196,1st ,63000,Mansarovar
+174,Volkswagen,309000,289000,Petrol,Manual,2011,50053,1st ,57800,Mansarovar
+175,Maruti,693000,602000,Diesel,Manual,2014,100227,1st ,120400,Mansarovar
+176,Maruti,694000,608000,Petrol,Manual,2019,64916,1st ,121600,Mansarovar
+177,Renault,400000,331000,Petrol,Manual,2019,31850,1st ,66200,Mansarovar
+178,Maruti,401000,347000,Petrol,Manual,2012,73214,1st ,69400,Mansarovar
+179,Tata,613000,527000,Petrol,Manual,2020,21388,1st ,105400,Mansarovar
+180,Volkswagen,404000,391000,Petrol,Manual,2012,74075,1st ,78200, Kochi
+181,Toyota,374000,344000,Petrol,Manual,2010,74729,2nd ,68800, Kochi
+182,Volkswagen,268000,268000,Diesel,Manual,2011,102369,2nd ,53600, Kochi
+183,Tata,821000,821000,Diesel,Automatic,2018,44092,1st ,164200, Kochi
+184,Tata,486000,438000,Petrol,Manual,2018,31841,1st ,87600, Kochi
+185,Maruti,163000,148000,Petrol,Manual,2010,91626,1st ,29600, Kochi
+186,Hyundai,301000,295000,Diesel,Manual,2012,93134,2nd ,59000, Kochi
+187,Hyundai,767000,698000,Petrol,Manual,2018,87005,2nd ,139600, Kochi
+188,Tata,389000,371000,Petrol,Manual,2018,120667,1st ,74200, Kochi
+189,Hyundai,573000,537000,Petrol,Manual,2016,86556,1st ,107400, Kochi
+190,Volkswagen,513000,501000,Diesel,Manual,2014,91954,2nd ,100200, Kochi
+191,Mahindra,1065000,1026000,Diesel,Manual,2019,75436,2nd ,205200, Kochi
+192,Renault,746000,677000,Petrol,Automatic,2018,42635,3rd ,135400, Kochi
+193,Maruti,250000,237000,Petrol,Manual,2011,106880,3rd ,47400, Kochi
+194,Honda,733000,682000,Petrol,Manual,2016,88154,1st ,136400, Kochi
+195,Renault,495000,484000,Diesel,Manual,2013,97629,2nd ,96800, Kochi
+196,Skoda,1901000,1828000,Petrol,Automatic,2022,3789,1st ,365600, Kochi
+197,Hyundai,1019000,944000,Petrol,Automatic,2017,80920,1st ,188800, Kochi
+198,Maruti,229000,229000,Petrol,Manual,2010,96745,1st ,45800, Kochi
+199,Maruti,473000,434000,Petrol,Automatic,2018,35649,1st ,86800, Kochi
+200,Maruti,182000,130000,Petrol,Manual,2011,42792,1st ,26000, Kolkata
+201,Ford,789000,709000,Petrol,Manual,2018,33701,1st ,141800, Kolkata
+202,Hyundai,216000,185000,Petrol,Manual,2010,87845,1st ,37000, Kolkata
+203,Honda,240000,206000,Petrol,Manual,2012,74000,2nd ,41200, Kolkata
+204,Maruti,605000,543000,Petrol,Manual,2018,18273,1st ,108600, Kolkata
+205,Maruti,179000,160000,Petrol,Manual,2010,71156,2nd ,32000, Kolkata
+206,Hyundai,241000,223000,Petrol,Manual,2012,58706,2nd ,44600, Kolkata
+207,Maruti,302000,302000,Petrol,Manual,2015,31355,1st ,60400, Kolkata
+208,Datsun,181000,175000,Petrol,Manual,2016,28130,1st ,35000, Kolkata
+209,Honda,422000,364000,Petrol,Manual,2014,64787,2nd ,72800, Kolkata
+210,Maruti,153000,137000,Petrol,Manual,2010,76672,3rd ,27400, Kolkata
+211,Tata,336000,305000,Diesel,Manual,2017,48548,1st ,61000, Kolkata
+212,Maruti,201000,174000,Petrol,Manual,2013,47619,1st ,34800, Kolkata
+213,Honda,385000,347000,Diesel,Manual,2014,102813,1st ,69400, Kolkata
+214,Hyundai,269000,258000,Petrol,Manual,2013,55797,1st ,51600, Kolkata
+215,Honda,422000,379000,Petrol,Manual,2010,60070,2nd ,75800, Kolkata
+216,Renault,432000,376000,Petrol,Manual,2020,19715,2nd ,75200, Kolkata
+217,Tata,421000,374000,Petrol,Manual,2018,98342,1st ,74800, Kolkata
+218,Maruti,150000,141000,Petrol,Manual,2010,54501,1st ,28200, Kolkata
+219,Hyundai,304000,253000,Diesel,Manual,2015,103033,3rd ,50600, Kolkata
+220,Maruti,398000,375000,Petrol,Manual,2016,97063,1st ,75000, Lucknow
+221,Mahindra,567000,567000,Diesel,Manual,2016,88494,1st ,113400, Lucknow
+222,Honda,501000,477000,Petrol,Manual,2016,49368,2nd ,95400, Lucknow
+223,Mahindra,698000,589000,Diesel,Manual,2017,63510,1st ,117800, Lucknow
+224,Maruti,328000,291000,Diesel,Manual,2013,117343,1st ,58200, Lucknow
+225,Hyundai,248000,196000,Petrol,Manual,2011,97351,1st ,39200, Lucknow
+226,Maruti,667000,561000,Petrol,Manual,2019,65772,1st ,112200, Lucknow
+227,Hyundai,589000,472000,Petrol,Manual,2017,64362,2nd ,94400, Lucknow
+228,Maruti,709000,627000,Diesel,Manual,2016,64794,1st ,125400, Lucknow
+229,Hyundai,706000,576000,Petrol,Manual,2019,32175,1st ,115200, Lucknow
+230,Tata,419000,381000,Petrol,Manual,2018,38017,1st ,76200, Lucknow
+231,Maruti,434000,352000,Petrol,Manual,2018,52419,1st ,70400, Lucknow
+232,Hyundai,834000,782000,Petrol,Manual,2017,45853,1st ,156400, Lucknow
+233,Maruti,332000,266000,Petrol,Automatic,2014,65187,1st ,53200, Lucknow
+234,Hyundai,237000,214000,CNG,Manual,2013,78849,2nd ,42800, Lucknow
+235,Maruti,593000,503000,Petrol,Automatic,2018,85051,1st ,100600, Lucknow
+236,Maruti,529000,451000,Petrol,Manual,2020,67952,1st ,90200, Lucknow
+237,Maruti,495000,458000,Diesel,Manual,2015,68005,2nd ,91600, Lucknow
+238,Maruti,400000,392000,Diesel,Manual,2014,98693,1st ,78400, Lucknow
+239,Maruti,252000,229000,Petrol,Manual,2012,41353,1st ,45800, Lucknow
+240,Hyundai,520000,520000,Petrol,Manual,2018,90619,1st ,104000, Ghaziabad
+241,Jeep,1373000,1373000,Diesel,Manual,2019,45108,1st ,274600, Ghaziabad
+242,Maruti,573000,573000,CNG,Manual,2022,41453,1st ,114600, Faridabad
+243,Maruti,270000,270000,Petrol,Manual,2012,53116,1st ,54000, Noida
+244,Maruti,478000,415000,Petrol,Automatic,2018,32685,1st ,83000, Faridabad
+245,Hyundai,702000,668000,CNG,Manual,2020,67853,2nd ,133600, Noida
+246,Maruti,817000,817000,Diesel,Manual,2019,55523,1st ,163400, Gurugram
+247,Maruti,417000,376000,Diesel,Manual,2015,117499,1st ,75200, Gurugram
+248,Maruti,819000,790000,Diesel,Manual,2019,50767,1st ,158000, Gurugram
+249,Maruti,533000,471000,Petrol,Manual,2019,97494,1st ,94200, Gurugram
+250,Honda,669000,636000,CNG,Manual,2019,43184,1st ,127200," Delhi
+"
+251,Maruti,500000,470000,CNG,Manual,2019,48404,1st ,94000, New Delhi
+252,Toyota,879000,777000,Petrol,Automatic,2019,37778,1st ,155400, Faridabad
+253,Maruti,280000,249000,Petrol,Manual,2014,79204,2nd ,49800, Gurugram
+254,Maruti,353000,300000,Petrol,Manual,2017,41428,3rd ,60000, Gurugram
+255,Maruti,186000,181000,Petrol,Manual,2010,61569,2nd ,36200," Delhi
+"
+256,Honda,657000,634000,Petrol,Manual,2019,37783,1st ,126800, Gurugram
+257,Ford,661000,629000,Diesel,Manual,2018,79371,1st ,125800, New Delhi
+258,Maruti,541000,526000,Petrol,Manual,2020,44817,2nd ,105200, New Delhi
+259,Renault,832000,679000,Petrol,Manual,2021,45459,1st ,135800, New Delhi
+260,Hyundai,520000,520000,Petrol,Manual,2018,90619,1st ,104000, Ghaziabad
+261,Jeep,1373000,1373000,Diesel,Manual,2019,45108,1st ,274600, Ghaziabad
+262,Maruti,573000,573000,CNG,Manual,2022,41453,1st ,114600, Faridabad
+263,Maruti,270000,270000,Petrol,Manual,2012,53116,1st ,54000, Noida
+264,Maruti,478000,415000,Petrol,Automatic,2018,32685,1st ,83000, Faridabad
+265,Hyundai,702000,668000,CNG,Manual,2020,67853,2nd ,133600, Noida
+266,Maruti,817000,817000,Diesel,Manual,2019,55523,1st ,163400, Gurugram
+267,Maruti,417000,376000,Diesel,Manual,2015,117499,1st ,75200, Gurugram
+268,Maruti,819000,790000,Diesel,Manual,2019,50767,1st ,158000, Gurugram
+269,Maruti,533000,471000,Petrol,Manual,2019,97494,1st ,94200, Gurugram
+270,Honda,669000,636000,CNG,Manual,2019,43184,1st ,127200," Delhi
+"
+271,Maruti,500000,470000,CNG,Manual,2019,48404,1st ,94000, New Delhi
+272,Toyota,879000,777000,Petrol,Automatic,2019,37778,1st ,155400, Faridabad
+273,Maruti,280000,249000,Petrol,Manual,2014,79204,2nd ,49800, Gurugram
+274,Maruti,353000,300000,Petrol,Manual,2017,41428,3rd ,60000, Gurugram
+275,Maruti,186000,181000,Petrol,Manual,2010,61569,2nd ,36200," Delhi
+"
+276,Honda,657000,634000,Petrol,Manual,2019,37783,1st ,126800, Gurugram
+277,Ford,661000,629000,Diesel,Manual,2018,79371,1st ,125800, New Delhi
+278,Maruti,541000,526000,Petrol,Manual,2020,44817,2nd ,105200, New Delhi
+279,Renault,832000,679000,Petrol,Manual,2021,45459,1st ,135800, New Delhi
+280,Renault,286000,279000,Petrol,Manual,2016,58103,2nd ,55800, Pune
+281,Tata,526000,507000,Petrol,Manual,2018,64730,1st ,101400, Pune
+282,Hyundai,826000,783000,CNG,Manual,2021,59231,1st ,156600, Pune
+283,Maruti,604000,565000,CNG,Manual,2019,65856,1st ,113000, Pune
+284,Renault,557000,557000,Petrol,Manual,2020,12051,1st ,111400, Pune
+285,Mahindra,875000,875000,Diesel,Manual,2021,28449,1st ,175000, Pune
+286,Hyundai,685000,674000,Petrol,Manual,2017,41790,1st ,134800, Pune
+287,Maruti,607000,540000,Petrol,Manual,2016,38057,1st ,108000, Pune
+288,Hyundai,398000,383000,Petrol,Manual,2013,99583,1st ,76600, Pune
+289,Maruti,518000,401000,Petrol,Manual,2018,54785,1st ,80200, Pune
+290,Maruti,308000,276000,Petrol,Manual,2011,82557,3rd ,55200, Pune
+291,Renault,250000,245000,Petrol,Manual,2015,41441,2nd ,49000, Pune
+292,Honda,766000,766000,Petrol,Manual,2021,24625,1st ,153200, Pune
+293,Maruti,742000,722000,CNG,Manual,2015,103581,1st ,144400, Pune
+294,Maruti,447000,375000,CNG,Manual,2017,66198,1st ,75000, Pune
+295,Skoda,359000,317000,Diesel,Manual,2013,123087,2nd ,63400, Pune
+296,Maruti,207000,181000,Petrol,Manual,2012,63748,2nd ,36200, Pune
+297,Mahindra,818000,788000,Diesel,Manual,2017,90963,2nd ,157600, Pune
+298,Hyundai,802000,740000,CNG,Manual,2021,41533,1st ,148000, Pune
+299,Maruti,241000,200000,Petrol,Manual,2010,36007,1st ,40000, Pune
+300,Renault,231000,231000,Petrol,Manual,2018,13597,1st ,46200," Agra
+"
+301,Hyundai,446000,446000,Petrol,Manual,2013,50765,1st ,89200," Agra
+"
+302,Hyundai,181000,181000,Petrol,Manual,2011,40596,1st ,36200," Agra
+"
+303,Renault,343000,343000,Petrol,Automatic,2018,31124,2nd ,68600," Agra
+"
+304,Maruti,712000,595000,Petrol,Manual,2019,29679,1st ,119000," Agra
+"
+305,Maruti,253000,253000,Petrol,Manual,2013,87208,1st ,50600," Agra
+"
+306,Maruti,663000,651000,Diesel,Manual,2017,120160,1st ,130200," Agra
+"
+307,Maruti,416000,373000,Petrol,Manual,2018,123617,1st ,74600," Agra
+"
+308,Hyundai,466000,461000,Petrol,Manual,2015,51837,2nd ,92200," Agra
+"
+309,Maruti,387000,376000,Petrol,Manual,2014,55756,2nd ,75200," Agra
+"
+310,Maruti,521000,498000,Diesel,Manual,2015,70529,1st ,99600," Agra
+"
+311,Maruti,424000,416000,Diesel,Manual,2013,115919,3rd ,83200," Agra
+"
+312,Hyundai,338000,338000,Petrol,Manual,2014,70232,1st ,67600," Agra
+"
+313,Maruti,351000,351000,Diesel,Manual,2013,65900,2nd ,70200," Agra
+"
+314,Hyundai,624000,589000,Petrol,Manual,2018,38600,2nd ,117800," Agra
+"
+315,Hyundai,319000,319000,Diesel,Manual,2014,90360,2nd ,63800," Agra
+"
+316,Maruti,340000,340000,Petrol,Manual,2013,88991,1st ,68000," Agra
+"
+317,Maruti,480000,458000,Petrol,Manual,2017,62953,1st ,91600," Agra
+"
+318,Maruti,548000,543000,Petrol,Automatic,2018,111670,1st ,108600," Agra
+"
+319,Maruti,499000,492000,Diesel,Manual,2015,74486,2nd ,98400," Agra
+"
+320,Maruti,400000,330000,Diesel,Manual,2014,78352,2nd ,66000, Chandigarh
+321,Hyundai,180000,170000,Petrol,Manual,2010,80727,1st ,34000, Chandigarh
+322,Maruti,322000,293000,Diesel,Manual,2013,90525,2nd ,58600, Chandigarh
+323,Maruti,187000,175000,Petrol,Manual,2012,73594,2nd ,35000, Chandigarh
+324,Maruti,582000,499000,Petrol,Manual,2018,72282,2nd ,99800, Chandigarh
+325,Hyundai,295000,247000,Diesel,Manual,2013,109062,1st ,49400, Chandigarh
+326,Maruti,359000,309000,Diesel,Manual,2013,85724,3rd ,61800, Chandigarh
+327,Mahindra,586000,541000,Diesel,Manual,2014,89077,1st ,108200, Chandigarh
+328,Hyundai,637000,599000,Petrol,Manual,2018,24917,1st ,119800, Chandigarh
+329,Maruti,276000,236000,Petrol,Manual,2015,46785,2nd ,47200, Chandigarh
+330,Volkswagen,595000,494000,Petrol,Manual,2020,45550,1st ,98800, Chandigarh
+331,Maruti,447000,365000,Diesel,Manual,2015,52311,1st ,73000, Chandigarh
+332,Hyundai,750000,646000,Petrol,Manual,2019,42118,1st ,129200, Chandigarh
+333,Maruti,252000,219000,Petrol,Manual,2010,92322,1st ,43800, Chandigarh
+334,Hyundai,878000,828000,Diesel,Manual,2018,63537,2nd ,165600, Ludhiana
+335,Datsun,213000,213000,Petrol,Manual,2017,29220,1st ,42600, Ludhiana
+336,Maruti,648000,581000,Petrol,Manual,2021,28305,1st ,116200, Chandigarh
+337,Toyota,472000,397000,Diesel,Manual,2016,74075,2nd ,79400, Chandigarh
+338,Maruti,329000,329000,Diesel,Manual,2015,72821,2nd ,65800, Chandigarh
+339,Renault,323000,294000,Petrol,Manual,2018,55058,1st ,58800, Chandigarh
+340,Tata,437000,386000,Petrol,Manual,2016,97441,2nd ,77200, Coimbatore
+341,Renault,385000,375500,Petrol,Automatic,2017,31341,1st ,75100, Coimbatore
+342,Honda,380000,337000,Petrol,Manual,2015,120127,3rd ,67400, Coimbatore
+343,Hyundai,545000,456000,Petrol,Manual,2016,92153,2nd ,91200, Coimbatore
+344,Maruti,542000,485000,Petrol,Manual,2015,68094,2nd ,97000, Coimbatore
+345,Nissan,666000,666000,Petrol,Manual,2022,25870,1st ,133200, Coimbatore
+346,Honda,514000,444000,Petrol,Manual,2017,90332,2nd ,88800, Coimbatore
+347,Maruti,707000,593000,Petrol,Automatic,2017,44254,1st ,118600, Coimbatore
+348,Maruti,523000,523000,Petrol,Manual,2023,3305,1st ,104600, Coimbatore
+349,Ford,729000,644000,Petrol,Manual,2020,26364,1st ,128800, Coimbatore
+350,Honda,762000,667000,Petrol,Manual,2017,106831,2nd ,133400, Coimbatore
+351,Volkswagen,780000,780000,Petrol,Automatic,2018,77471,2nd ,156000, Coimbatore
+352,Skoda,1002000,887000,Petrol,Manual,2021,39753,1st ,177400, Coimbatore
+353,Renault,435000,391000,Petrol,Automatic,2018,22865,1st ,78200, Coimbatore
+354,Tata,505000,474000,Petrol,Automatic,2017,41258,2nd ,94800, Coimbatore
+355,Hyundai,344000,322000,Petrol,Manual,2018,54694,2nd ,64400, Coimbatore
+356,Jeep,1334000,1282000,Petrol,Automatic,2018,58859,2nd ,256400, Coimbatore
+357,Maruti,622000,539000,Diesel,Manual,2016,53917,2nd ,107800, Coimbatore
+358,Maruti,676000,628000,Petrol,Automatic,2017,33550,2nd ,125600, Coimbatore
+359,Renault,869000,770000,Petrol,Automatic,2019,74056,2nd ,154000, Coimbatore
+360,Maruti,400000,330000,Diesel,Manual,2014,78352,2nd ,66000, Chandigarh
+361,Hyundai,180000,170000,Petrol,Manual,2010,80727,1st ,34000, Chandigarh
+362,Maruti,322000,293000,Diesel,Manual,2013,90525,2nd ,58600, Chandigarh
+363,Maruti,187000,175000,Petrol,Manual,2012,73594,2nd ,35000, Chandigarh
+364,Maruti,582000,499000,Petrol,Manual,2018,72282,2nd ,99800, Chandigarh
+365,Hyundai,295000,247000,Diesel,Manual,2013,109062,1st ,49400, Chandigarh
+366,Maruti,359000,309000,Diesel,Manual,2013,85724,3rd ,61800, Chandigarh
+367,Mahindra,586000,541000,Diesel,Manual,2014,89077,1st ,108200, Chandigarh
+368,Hyundai,637000,599000,Petrol,Manual,2018,24917,1st ,119800, Chandigarh
+369,Maruti,276000,236000,Petrol,Manual,2015,46785,2nd ,47200, Chandigarh
+370,Volkswagen,595000,494000,Petrol,Manual,2020,45550,1st ,98800, Chandigarh
+371,Maruti,447000,365000,Diesel,Manual,2015,52311,1st ,73000, Chandigarh
+372,Hyundai,750000,646000,Petrol,Manual,2019,42118,1st ,129200, Chandigarh
+373,Maruti,252000,219000,Petrol,Manual,2010,92322,1st ,43800, Chandigarh
+374,Hyundai,878000,828000,Diesel,Manual,2018,63537,2nd ,165600, Ludhiana
+375,Datsun,213000,213000,Petrol,Manual,2017,29220,1st ,42600, Ludhiana
+376,Maruti,648000,581000,Petrol,Manual,2021,28305,1st ,116200, Chandigarh
+377,Toyota,472000,397000,Diesel,Manual,2016,74075,2nd ,79400, Chandigarh
+378,Maruti,329000,329000,Diesel,Manual,2015,72821,2nd ,65800, Chandigarh
+379,Renault,323000,294000,Petrol,Manual,2018,55058,1st ,58800, Chandigarh
+380,Honda,353000,340000,Petrol,Manual,2014,79352,1st ,68000, Nagpur
+381,Maruti,308000,249000,Diesel,Manual,2011,87743,2nd ,49800, Nagpur
+382,Tata,510000,438000,Petrol,Automatic,2018,29515,1st ,87600, Nagpur
+383,Renault,314000,275000,Petrol,Manual,2018,47552,3rd ,55000, Nagpur
+384,Honda,192000,192000,Petrol,Manual,2011,115608,2nd ,38400, Nagpur
+385,Maruti,289000,262000,CNG,Manual,2013,45430,1st ,52400, Nagpur
+386,Volkswagen,565000,480000,Petrol,Manual,2019,56980,2nd ,96000, Nagpur
+387,Hyundai,188000,172000,Petrol,Manual,2010,47443,3rd ,34400, Nagpur
+388,Renault,316000,271000,Petrol,Manual,2018,118789,1st ,54200, Nagpur
+389,Maruti,207000,187000,Petrol,Manual,2012,59340,1st ,37400, Nagpur
+390,Hyundai,601000,487000,Petrol,Manual,2017,88140,1st ,97400, Nagpur
+391,Maruti,643000,563000,Petrol,Automatic,2017,64444,1st ,112600, Nagpur
+392,Maruti,161000,156000,Petrol,Manual,2011,29904,2nd ,31200, Nagpur
+393,Maruti,323000,280000,Petrol,Manual,2015,74447,1st ,56000, Nagpur
+394,Maruti,574000,553000,Petrol,Automatic,2016,103298,2nd ,110600, Nagpur
+395,Maruti,362000,288000,Diesel,Manual,2012,114012,3rd ,57600, Nagpur
+396,Mahindra,886000,861000,Diesel,Manual,2019,84242,1st ,172200, Nagpur
+397,Maruti,465000,440000,CNG,Manual,2019,52297,2nd ,88000, Nagpur
+398,Hyundai,317000,279000,Petrol,Manual,2016,42763,1st ,55800, Nagpur
+399,Hyundai,1160000,1134000,Petrol,Manual,2019,42617,1st ,226800, Nagpur
+400,Volkswagen,299000,283000,Diesel,Manual,2013,110430,2nd ,56600, Nasik
+401,Datsun,224000,218000,Petrol,Manual,2018,58588,1st ,43600, Nasik
+402,Ford,465000,455000,Petrol,Manual,2014,80576,1st ,91000, Nasik
+403,Honda,280000,240000,Petrol,Manual,2013,35781,2nd ,48000, Nasik
+404,Maruti,269000,245000,Petrol,Manual,2012,96900,2nd ,49000, Nasik
+405,Hyundai,218000,211000,Petrol,Manual,2010,84356,1st ,42200, Nasik
+406,Maruti,263000,239000,Petrol,Manual,2012,80563,3rd ,47800, Nasik
+407,Maruti,259000,250000,CNG,Manual,2015,75512,3rd ,50000, Nasik
+408,Maruti,424000,383000,CNG,Manual,2018,92055,1st ,76600, Nasik
+409,Hyundai,740000,662000,Diesel,Manual,2016,57406,2nd ,132400, Nasik
+410,Maruti,778000,688000,Diesel,Manual,2018,57457,1st ,137600, Nasik
+411,Tata,380000,370000,Petrol,Manual,2016,51816,1st ,74000, Nasik
+412,MG,1602000,1541000,Diesel,Manual,2020,52703,1st ,308200, Nasik
+413,Maruti,513000,456000,Petrol,Manual,2017,79070,2nd ,91200, Nasik
+414,Mahindra,764000,730000,Diesel,Manual,2018,94011,2nd ,146000, Nasik
+415,Maruti,544000,529000,Petrol,Automatic,2017,88651,1st ,105800, Nasik
+416,Maruti,444000,390000,CNG,Manual,2018,78901,1st ,78000, Nasik
+417,Skoda,736000,695000,Petrol,Manual,2017,57583,1st ,139000, Nasik
+418,Renault,374000,335000,Petrol,Manual,2019,49884,1st ,67000, Nasik
+419,Maruti,294000,289000,Petrol,Manual,2016,68709,1st ,57800, Nasik
+420,Renault,225000,209000,Petrol,Manual,2016,68292,1st ,41800, Patna
+421,Toyota,833000,742000,Petrol,Manual,2021,29251,1st ,148400,"Patna
+"
+422,Maruti,197000,191000,Petrol,Manual,2013,49159,1st ,38200, Patna
+423,Maruti,144000,144000,Petrol,Manual,2010,61662,1st ,28800, Patna
+424,Maruti,601000,508000,Petrol,Manual,2018,15063,1st ,101600, Patna
+425,Mahindra,763000,716000,Diesel,Manual,2017,87622,1st ,143200,"Patna
+"
+426,Tata,368000,334600,Petrol,Manual,2017,80310,1st ,66920,"Patna
+"
+427,Renault,616000,559000,Petrol,Manual,2021,32096,1st ,111800,"Patna
+"
+428,Maruti,317000,292000,Petrol,Manual,2019,21476,1st ,58400,"Patna
+"
+429,Hyundai,162000,129000,Petrol,Manual,2011,94852,1st ,25800, Patna
+430,Mahindra,777000,692000,Diesel,Manual,2019,66656,1st ,138400, Patna
+431,Maruti,333000,281000,Petrol,Manual,2016,68173,1st ,56200, Patna
+432,Maruti,181000,175000,Petrol,Manual,2011,43340,1st ,35000,"Patna
+"
+433,Maruti,317000,268000,Petrol,Manual,2016,89443,1st ,53600, Patna
+434,Renault,588000,529000,Petrol,Manual,2020,66686,1st ,105800, Patna
+435,Hyundai,512000,456000,Petrol,Manual,2015,20231,2nd ,91200, Patna
+436,Maruti,196000,181000,Petrol,Manual,2012,75680,2nd ,36200,"Patna
+"
+437,Maruti,645000,570000,Diesel,Manual,2017,36201,2nd ,114000, Patna
+438,Datsun,224000,205000,Petrol,Manual,2017,66136,1st ,41000,"Patna
+"
+439,Hyundai,435000,413000,Diesel,Manual,2012,93770,1st ,82600,"Patna
+"
+440,Tata,432000,410000,Petrol,Manual,2018,53673,1st ,82000, Rajkot
+441,Maruti,822000,806000,Diesel,Manual,2018,65452,1st ,161200, Rajkot
+442,Maruti,352000,337000,Diesel,Manual,2012,100448,2nd ,67400, Rajkot
+443,Hyundai,227000,211000,Petrol,Manual,2010,58135,2nd ,42200, Rajkot
+444,Honda,439000,427000,Diesel,Manual,2014,80664,3rd ,85400, Rajkot
+445,Volkswagen,396000,376000,Petrol,Manual,2015,99559,1st ,75200, Rajkot
+446,Maruti,293000,279000,CNG,Manual,2012,56336,1st ,55800, Rajkot
+447,Hyundai,766000,766000,Petrol,Manual,2021,24897,2nd ,153200, Rajkot
+448,Hyundai,557000,526000,CNG,Manual,2016,100785,2nd ,105200, Rajkot
+449,Maruti,307000,298000,Petrol,Manual,2017,75740,2nd ,59600, Rajkot
+450,Maruti,814000,763650,Petrol,Manual,2018,23548,1st ,152730, Rajkot
+451,Hyundai,226000,216000,Petrol,Manual,2013,45665,2nd ,43200, Rajkot
+452,Mahindra,835000,797000,Diesel,Manual,2019,116573,1st ,159400, Rajkot
+453,Maruti,495000,434000,Petrol,Manual,2016,87531,2nd ,86800, Rajkot
+454,Maruti,371000,344000,Diesel,Manual,2015,124318,3rd ,68800, Rajkot
+455,Nissan,644000,601000,Petrol,Manual,2022,40894,1st ,120200, Rajkot
+456,Hyundai,719000,669000,Diesel,Manual,2016,75251,1st ,133800, Rajkot
+457,Volkswagen,367000,344000,Diesel,Manual,2014,123250,1st ,68800, Rajkot
+458,Maruti,320000,320000,Petrol,Manual,2019,19070,1st ,64000, Rajkot
+459,Maruti,599000,599000,Petrol,Manual,2020,44463,1st ,119800, Rajkot
+460,Maruti,284000,263000,Petrol,Manual,2012,93869,2nd ,52600, Rohtak
+461,Mahindra,1534000,1445000,Diesel,Automatic,2019,52496,1st ,289000, Faridabad
+462,Maruti,305000,280000,CNG,Manual,2018,67680,1st ,56000, Faridabad
+463,Hyundai,759000,723000,Petrol,Manual,2021,32868,1st ,144600, Rohtak
+464,Honda,509000,482000,Petrol,Manual,2015,24569,1st ,96400, Faridabad
+465,Maruti,574000,538000,Petrol,Manual,2017,69455,1st ,107600, Rohtak
+466,Maruti,544000,510000,Petrol,Manual,2018,29390,1st ,102000, Faridabad
+467,Hyundai,801000,720000,Petrol,Manual,2022,12181,1st ,144000, Rohtak
+468,Hyundai,226000,201000,Petrol,Manual,2013,61788,1st ,40200, Faridabad
+469,Hyundai,907000,907000,Diesel,Manual,2020,23257,1st ,181400, Faridabad
+470,Tata,560000,544000,Petrol,Manual,2021,20955,1st ,108800, Faridabad
+471,Maruti,401000,361000,CNG,Manual,2018,78642,1st ,72200, Rohtak
+472,Datsun,171000,171000,Petrol,Manual,2014,97917,1st ,34200, Faridabad
+473,Maruti,627000,509000,Diesel,Manual,2017,61522,1st ,101800, Faridabad
+474,Maruti,430000,394000,CNG,Manual,2018,55329,2nd ,78800, Faridabad
+475,Jeep,1163000,1151000,Diesel,Manual,2019,93467,1st ,230200, Faridabad
+476,Tata,663000,617000,Petrol,Manual,2022,21566,1st ,123400, Faridabad
+477,Maruti,418000,376000,Petrol,Manual,2018,33443,1st ,75200, Faridabad
+478,Maruti,340000,327000,CNG,Manual,2019,54914,1st ,65400, Faridabad
+479,Maruti,653000,572000,CNG,Manual,2020,61006,1st ,114400, Faridabad
+480,Hyundai,265000,265000,Petrol,Manual,2011,21964,2nd ,53000, Surat
+481,Tata,482000,422000,CNG,Automatic,2018,40505,1st ,84400, Surat
+482,Hyundai,461000,393000,Diesel,Manual,2014,94372,3rd ,78600, Surat
+483,Hyundai,501000,487000,Petrol,Manual,2015,32587,1st ,97400, Surat
+484,Renault,246000,238000,Petrol,Manual,2016,19712,1st ,47600, Surat
+485,Maruti,424000,405000,Petrol,Manual,2017,60892,1st ,81000, Surat
+486,Skoda,635000,540000,Petrol,Manual,2018,94713,2nd ,108000, Surat
+487,Datsun,247000,197000,Petrol,Manual,2017,76982,1st ,39400, Surat
+488,Toyota,2297000,2214000,Diesel,Automatic,2017,116742,3rd ,442800, Surat
+489,Hyundai,235000,235000,Petrol,Manual,2010,56738,1st ,47000, Surat
+490,Honda,480000,409000,Diesel,Manual,2014,94591,1st ,81800, Surat
+491,Hyundai,295000,215000,Petrol,Manual,2012,59322,3rd ,43000, Surat
+492,Volkswagen,293000,293000,Petrol,Manual,2012,84559,1st ,58600, Surat
+493,Maruti,358000,331000,Diesel,Manual,2012,55782,1st ,66200, Surat
+494,Hyundai,430000,364000,Petrol,Manual,2019,34861,2nd ,72800, Surat
+495,Maruti,764000,606000,Petrol,Manual,2019,55298,1st ,121200, Surat
+496,Maruti,306000,248000,Petrol,Manual,2017,23914,2nd ,49600, Surat
+497,Hyundai,645000,629000,Petrol,Manual,2018,13141,1st ,125800, Surat
+498,Maruti,276000,224000,Petrol,Manual,2012,78259,1st ,44800, Surat
+499,Honda,610000,504000,Petrol,Manual,2019,64146,2nd ,100800, Surat
+500,Tata,466000,440000,Petrol,Manual,2018,54479,1st ,88000, Vadodara
+501,Hyundai,884000,819000,Diesel,Manual,2017,56700,2nd ,163800, Vadodara
+502,Tata,333000,333000,Petrol,Manual,2016,67880,1st ,66600, Vadodara
+503,Renault,417000,332000,Petrol,Automatic,2019,67081,1st ,66400, Vadodara
+504,Honda,599000,500000,CNG,Manual,2014,76800,2nd ,100000, Vadodara
+505,Maruti,411250,411250,Diesel,Manual,2015,96797,3rd ,82250, Vadodara
+506,Maruti,267000,267000,CNG,Manual,2012,112434,1st ,53400, Vadodara
+507,Volkswagen,369000,369000,Petrol,Manual,2014,86846,2nd ,73800, Vadodara
+508,Hyundai,1099000,1073000,Petrol,Manual,2020,43008,1st ,214600, Vadodara
+509,Maruti,724000,673000,Petrol,Manual,2021,23941,1st ,134600, Vadodara
+510,Maruti,190000,185000,Petrol,Manual,2010,54715,1st ,37000, Vadodara
+511,Maruti,200000,200000,Petrol,Manual,2013,88798,2nd ,40000, Vadodara
+512,Maruti,170000,170000,CNG,Manual,2011,82340,1st ,34000, Vadodara
+513,Maruti,585000,569000,Petrol,Automatic,2018,88163,1st ,113800, Vadodara
+514,Maruti,328000,328000,Petrol,Manual,2019,16842,1st ,65600, Vadodara
+515,Maruti,210000,210000,Petrol,Manual,2012,58638,2nd ,42000, Vadodara
+516,Volkswagen,501000,488000,Petrol,Manual,2018,53188,1st ,97600, Vadodara
+517,Hyundai,298000,292000,Petrol,Manual,2017,86094,1st ,58400, Vadodara
+518,Maruti,240000,234000,Petrol,Manual,2013,25961,1st ,46800, Vadodara
+519,Hyundai,221000,221000,Petrol,Manual,2010,85320,2nd ,44200, Vadodara
